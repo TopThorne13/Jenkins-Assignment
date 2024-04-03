@@ -1,0 +1,16 @@
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\bin\Debug\net5.0\HelloWorld-JenkinsAssignment.exe
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\bin\Debug\net5.0\HelloWorld-JenkinsAssignment.deps.json
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\bin\Debug\net5.0\HelloWorld-JenkinsAssignment.runtimeconfig.json
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\bin\Debug\net5.0\HelloWorld-JenkinsAssignment.runtimeconfig.dev.json
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\bin\Debug\net5.0\HelloWorld-JenkinsAssignment.dll
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\bin\Debug\net5.0\ref\HelloWorld-JenkinsAssignment.dll
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\bin\Debug\net5.0\HelloWorld-JenkinsAssignment.pdb
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\obj\Debug\net5.0\HelloWorld-JenkinsAssignment.csproj.AssemblyReference.cache
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\obj\Debug\net5.0\HelloWorld-JenkinsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\obj\Debug\net5.0\HelloWorld-JenkinsAssignment.AssemblyInfoInputs.cache
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\obj\Debug\net5.0\HelloWorld-JenkinsAssignment.AssemblyInfo.cs
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\obj\Debug\net5.0\HelloWorld-JenkinsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\obj\Debug\net5.0\HelloWorld-JenkinsAssignment.dll
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\obj\Debug\net5.0\ref\HelloWorld-JenkinsAssignment.dll
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\obj\Debug\net5.0\HelloWorld-JenkinsAssignment.pdb
+C:\Users\balpreetsingh\Downloads\Jenkins\HelloWorld-JenkinsAssignment\obj\Debug\net5.0\HelloWorld-JenkinsAssignment.genruntimeconfig.cache
